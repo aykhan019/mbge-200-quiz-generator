@@ -1,0 +1,244 @@
+1. Which acronym summarizes the seven characteristics of living organisms?
+a. MRS GREN
+b. CHNOPS
+c. DNA-RNA
+d. ATP-GAS
+ANS: a
+
+2. In 'MRS GREN', what does 'M' stand for?
+a. Movement
+b. Metabolism
+c. Mitosis
+d. Mutations
+ANS: a
+
+3. What is the basic unit of life?
+a. Cell
+b. Atom
+c. Molecule
+d. Organ
+ANS: a
+
+4. Which level of organization comes directly above 'tissue'?
+a. Organ
+b. Cell
+c. Organism
+d. Population
+ANS: a
+
+5. Which element accounts for about 65% of human body mass?
+a. Oxygen
+b. Carbon
+c. Hydrogen
+d. Nitrogen
+ANS: a
+
+6. The acronym CHNOPS lists the six most abundant elements in the human body. What does 'P' stand for?
+a. Phosphorus
+b. Potassium
+c. Protein
+d. Peptide
+ANS: a
+
+7. Which macromolecule class has the general formula (CH₂O)ₙ?
+a. Carbohydrates
+b. Proteins
+c. Lipids
+d. Nucleic acids
+ANS: a
+
+8. Which polysaccharide is the primary storage form of glucose in animals?
+a. Glycogen
+b. Cellulose
+c. Starch
+d. Chitin
+ANS: a
+
+9. Which polysaccharide is indigestible to humans and serves as dietary fiber?
+a. Cellulose
+b. Glycogen
+c. Starch
+d. Chitin
+ANS: a
+
+10. Triglycerides are composed of glycerol and three ____ chains.
+a. Fatty acid
+b. Amino acid
+c. Nucleotide
+d. Monosaccharide
+ANS: a
+
+11. Which lipid is a major component of cell membranes?
+a. Phospholipids
+b. Triglycerides
+c. Steroids
+d. Cholesterol
+ANS: a
+
+12. Cholesterol is a precursor for which type of molecules?
+a. Steroid hormones
+b. Proteins
+c. Carbohydrates
+d. Nucleic acids
+ANS: a
+
+13. Proteins are polymers of ____.
+a. Amino acids
+b. Monosaccharides
+c. Nucleotides
+d. Fatty acids
+ANS: a
+
+14. How many amino acids are used to build proteins?
+a. 20
+b. 4
+c. 64
+d. 2
+ANS: a
+
+15. Nucleic acids are polymers of ____.
+a. Nucleotides
+b. Amino acids
+c. Monosaccharides
+d. Fatty acids
+ANS: a
+
+16. Which sugar is found in DNA nucleotides?
+a. Deoxyribose
+b. Ribose
+c. Glucose
+d. Fructose
+ANS: a
+
+17. Adenine pairs with ____ in DNA via two hydrogen bonds.
+a. Thymine
+b. Cytosine
+c. Guanine
+d. Uracil
+ANS: a
+
+18. How many hydrogen bonds connect cytosine and guanine?
+a. Three
+b. Two
+c. One
+d. Four
+ANS: a
+
+19. DNA strands run in opposite directions. This orientation is called ____.
+a. Antiparallel
+b. Parallel
+c. Complementary
+d. Symmetric
+ANS: a
+
+20. Which of these is NOT a characteristic of life according to MRS GREN?
+a. Intelligence
+b. Excretion
+c. Growth
+d. Reproduction
+ANS: a
+
+21. Viruses are generally NOT considered alive because they cannot ____ on their own.
+a. Reproduce
+b. Evolve
+c. Contain genetic material
+d. Interact
+ANS: a
+
+22. Levels of biological organization include Cell, Tissue, Organ, Organism, Population, Community, and ____.
+a. Ecosystem
+b. Atom
+c. Organ system
+d. Species
+ANS: a
+
+23. Which domain of life includes organisms lacking a true nucleus?
+a. Bacteria
+b. Eukarya
+c. Protista
+d. Fungi
+ANS: a
+
+24. Which kingdom comprises multicellular, autotrophic eukaryotes with cellulose cell walls?
+a. Plantae
+b. Animalia
+c. Fungi
+d. Protista
+ANS: a
+
+25. Fungi have cell walls made of ____.
+a. Chitin
+b. Cellulose
+c. Peptidoglycan
+d. Silica
+ANS: a
+
+26. Prokaryotic cells differ from eukaryotic cells because they lack ____. 
+a. Membrane-bound organelles
+b. Ribosomes
+c. DNA
+d. A cell membrane
+ANS: a
+
+27. Which organelle is the site of protein synthesis?
+a. Ribosome
+b. Mitochondrion
+c. Lysosome
+d. Golgi apparatus
+ANS: a
+
+28. Mitochondria have their own DNA and double membrane as evidence for ____ theory.
+a. Endosymbiotic
+b. Spontaneous generation
+c. RNA world
+d. Central dogma
+ANS: a
+
+29. The central dogma describes information flow as ____.
+a. DNA → RNA → Protein
+b. RNA → DNA → Protein
+c. Protein → RNA → DNA
+d. DNA → Protein → RNA
+ANS: a
+
+30. In eukaryotes, transcription occurs in the ____ and translation in the ____.
+a. Nucleus; Cytoplasm
+b. Cytoplasm; Nucleus
+c. Mitochondrion; Nucleus
+d. Golgi; ER
+ANS: a
+
+31. Introns are removed from pre-mRNA during ____.
+a. RNA splicing
+b. Translation
+c. Transcription
+d. DNA replication
+ANS: a
+
+32. A nucleosome consists of DNA wrapped around ____ proteins.
+a. Histone
+b. DNA polymerase
+c. Ribosomal
+d. Actin
+ANS: a
+
+33. Euchromatin is loosely packed and ____.
+a. transcriptionally active
+b. transcriptionally inactive
+c. visible only in metaphase
+d. found only in prokaryotes
+ANS: a
+
+34. Giemsa staining is used to visualize ____ patterns on chromosomes.
+a. banding
+b. fluorescence
+c. all chloroplastsa
+d. flagella
+ANS: a
+
+35. A human somatic cell typically contains ____ chromosomes.
+a. 46
+b. 23
+c. 92
+d. 22
+ANS: a

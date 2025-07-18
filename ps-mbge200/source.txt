@@ -1439,3 +1439,206 @@ b. A process of forming messenger RNA from DNA
 c. An error in protein folding
 d. A segment of DNA that does not code for anything
 ANS: a
+
+Who first articulated the central dogma of molecular biology in 1958?
+a. Rosalind Franklin
+b. James Watson
+c. Maurice Wilkins
+d. Francis Crick
+ANS: d
+
+The central dogma describes information flow from DNA to RNA to _____?
+a. Protein
+b. ATP
+c. Carbohydrate
+d. Lipid
+ANS: a
+
+Which process involves synthesizing RNA from a DNA template?
+a. Transcription
+b. Translation
+c. Splicing
+d. Replication
+ANS: a
+
+Which process involves synthesizing proteins at the ribosome?
+a. Polymerization
+b. Transcription
+c. Replication
+d. Translation
+ANS: d
+
+SARS-CoV-2 uses which process to replicate its RNA genome?
+a. RNA → DNA synthesis
+b. DNA → RNA synthesis
+c. RNA → RNA synthesis
+d. DNA → protein synthesis
+ANS: c
+
+HIV replicates by converting its RNA genome into DNA using _____?
+a. Ligase
+b. Reverse transcriptase
+c. DNA polymerase
+d. RNA polymerase
+ANS: b
+
+What is DNA an abbreviation for?
+a. Deoxyribonucleic ammonium
+b. Deoxyribose nuclear act
+c. Dicarboxylic acid
+d. Deoxyribonucleic acid
+ANS: d
+
+Which of the following is a pyrimidine base in DNA?
+a. Adenine
+b. Uracil
+c. Cytosine
+d. Guanine
+ANS: c
+
+Which base is found in RNA but not in DNA?
+a. Thymine
+b. Uracil
+c. Cytosine
+d. Guanine
+ANS: b
+
+Which of the following is a purine base?
+a. Cytosine
+b. Adenine
+c. Uracil
+d. Thymine
+ANS: b
+
+How many hydrogen bonds form between adenine and thymine?
+a. Four
+b. One
+c. Two
+d. Three
+ANS: c
+
+How many hydrogen bonds form between cytosine and guanine?
+a. Two
+b. One
+c. Three
+d. Four
+ANS: c
+
+The shape of the DNA molecule is called a _____?
+a. Alpha sheet
+b. Single strand
+c. Double helix
+d. Triple coil
+ANS: c
+
+DNA strands run in opposite directions; this is termed _____?
+a. Convergent
+b. Complementary
+c. Parallel
+d. Antiparallel
+ANS: d
+
+Approximately how long is the DNA in a single human cell when fully stretched?
+a. 2 millimeters
+b. 2 meters
+c. 2 centimeters
+d. 2 micrometers
+ANS: b
+
+Genes are segments of DNA that provide instructions to build _____?
+a. Proteins
+b. Vitamins
+c. Sugars
+d. Lipids
+ANS: a
+
+Chromosomes are condensed structures of DNA and _____?
+a. RNA
+b. Carbohydrates
+c. Lipids
+d. Proteins
+ANS: d
+
+Where are nuclear chromosomes located within a eukaryotic cell?
+a. Cytoplasm
+b. Nucleus
+c. Endoplasmic reticulum
+d. Mitochondria
+ANS: b
+
+How many pairs of chromosomes are typically found in a human somatic cell?
+a. 23
+b. 22
+c. 46
+d. 24
+ANS: a
+
+Which human cells lack a nucleus and thus chromosomal DNA?
+a. Nerve cells
+b. Liver cells
+c. Muscle cells
+d. Red blood cells
+ANS: d
+
+What term describes the complete set of genetic instructions in an organism?
+a. Metabolome
+b. Transcriptome
+c. Proteome
+d. Genome
+ANS: d
+
+A gene consists of a regulatory region called the _____ and a coding region.
+a. Terminator
+b. Promoter
+c. Enhancer
+d. Operator
+ANS: b
+
+Which gene segment is removed from pre-mRNA during processing?
+a. Promoter
+b. Terminator
+c. Intron
+d. Exon
+ANS: c
+
+Chromatin consists of DNA wrapped around _____ proteins.
+a. Histone
+b. Myosin
+c. Actin
+d. Tubulin
+ANS: a
+
+A single nucleosome core particle contains _____ histone proteins.
+a. Six
+b. Ten
+c. Eight
+d. Four
+ANS: c
+
+Chromatin that is loosely packed and transcriptionally active is called _____?
+a. Nucleosome
+b. Heterochromatin
+c. Mitotic chromosome
+d. Euchromatin
+ANS: d
+
+Chromatin that is densely packed and transcriptionally inactive is called _____?
+a. Euchromatin
+b. Heterochromatin
+c. Nucleolus
+d. Chromatid
+ANS: b
+
+Which staining technique is commonly used to visualize banding patterns on chromosomes?
+a. Fluorescent staining
+b. Silver staining
+c. Gram staining
+d. Giemsa staining
+ANS: d
+
+Which technique uses fluorescent probes to label specific chromosomes?
+a. Phase-contrast microscopy
+b. Electron microscopy
+c. Fluorescent staining
+d. Giemsa staining
+ANS: c

@@ -1,0 +1,258 @@
+1. Life is defined as a process that occurs in what type of structures?
+a. Columnar epithelial tissues
+b. Highly organized organic structures
+c. Pure crystalline minerals
+d. Random inorganic aggregates
+ANS: b
+
+2. Which acronym summarizes the seven characteristics of living organisms?
+a. ATP-GAS
+b. MRS GREN
+c. DNA-RNA
+d. CHNOPS
+ANS: b
+
+3. In MRS GREN, what does the 'S' represent?
+a. Structure
+b. Sensitivity (response to stimuli)
+c. Symbiosis
+d. Strength
+ANS: b
+
+4. The six key chemical elements making up 99% of the human body are remembered by CHNOPS. What does 'S' stand for?
+a. Sulfur
+b. Selenium
+c. Sodium
+d. Silicon
+ANS: a
+
+5. Water makes up approximately what percentage of a typical human cell by mass?
+a. 10–20%
+b. 5–10%
+c. 65–90%
+d. 30–40%
+ANS: c
+
+6. Which carbohydrate class has the general formula (CH₂O)ₙ?
+a. Nucleic acids
+b. Carbohydrates
+c. Lipids
+d. Proteins
+ANS: b
+
+7. Which polysaccharide is the primary storage form of glucose in animals?
+a. Cellulose
+b. Starch
+c. Glycogen
+d. Chitin
+ANS: c
+
+8. Which polysaccharide is indigestible to humans and serves as dietary fiber?
+a. Chitin
+b. Starch
+c. Glycogen
+d. Cellulose
+ANS: d
+
+9. Triglycerides are composed of glycerol and three ____ chains.
+a. Nucleotide
+b. Fatty acid
+c. Monosaccharide
+d. Amino acid
+ANS: b
+
+10. Which lipid is a major component of cell membranes?
+a. Cholesterol
+b. Triglycerides
+c. Phospholipids
+d. Steroids
+ANS: c
+
+11. Cholesterol is a precursor for which type of molecules?
+a. Steroid hormones
+b. Nucleic acids
+c. Carbohydrates
+d. Proteins
+ANS: a
+
+12. Proteins are polymers of ____.
+a. Fatty acids
+b. Amino acids
+c. Monosaccharides
+d. Nucleotides
+ANS: b
+
+13. How many different amino acids are used to build proteins?
+a. 2
+b. 64
+c. 4
+d. 20
+ANS: d
+
+14. Nucleic acids are polymers of ____.
+a. Monosaccharides
+b. Amino acids
+c. Fatty acids
+d. Nucleotides
+ANS: d
+
+15. Which sugar is found in DNA nucleotides?
+a. Fructose
+b. Glucose
+c. Ribose
+d. Deoxyribose
+ANS: d
+
+16. Adenine pairs with ____ in DNA via two hydrogen bonds.
+a. Guanine
+b. Uracil
+c. Cytosine
+d. Thymine
+ANS: d
+
+17. Cytosine and guanine form how many hydrogen bonds?
+a. Three
+b. One
+c. Two
+d. Four
+ANS: a
+
+18. DNA strands run in opposite directions. This orientation is called ____.
+a. Antiparallel
+b. Symmetric
+c. Complementary
+d. Parallel
+ANS: a
+
+19. Viruses are generally not considered alive because they cannot ____ on their own.
+a. Evolve
+b. Interact
+c. Reproduce
+d. Contain genetic material
+ANS: c
+
+20. The highest level of biological organization that includes organisms plus environment is the ____.
+a. Species
+b. Ecosystem
+c. Organ
+d. Cell
+ANS: b
+
+21. Which domain includes organisms with a true nucleus and organelles?
+a. Bacteria
+b. Prokarya
+c. Eukarya
+d. Archaea
+ANS: c
+
+22. Which kingdom contains multicellular, autotrophic eukaryotes with cellulose cell walls?
+a. Protista
+b. Plantae
+c. Animalia
+d. Fungi
+ANS: b
+
+23. Fungi have cell walls made of ____.
+a. Silica
+b. Chitin
+c. Peptidoglycan
+d. Cellulose
+ANS: b
+
+24. Prokaryotic cells differ from eukaryotic cells in lacking ____.
+a. A cell membrane
+b. DNA
+c. Ribosomes
+d. Membrane-bound organelles
+ANS: d
+
+25. Which organelle is the site of protein synthesis?
+a. Golgi apparatus
+b. Mitochondrion
+c. Lysosome
+d. Ribosome
+ANS: d
+
+26. Mitochondria have their own DNA and double membrane, supporting ____ theory.
+a. Central dogma
+b. Endosymbiotic
+c. Spontaneous generation
+d. RNA world
+ANS: b
+
+27. The central dogma describes information flow as ____.
+a. Protein → RNA → DNA
+b. DNA → RNA → Protein
+c. DNA → Protein → RNA
+d. RNA → DNA → Protein
+ANS: b
+
+28. Transcription is the process of synthesizing ____ from a DNA template.
+a. Protein
+b. Lipids
+c. RNA
+d. DNA
+ANS: c
+
+29. Translation occurs at the ____.
+a. Nucleus
+b. Mitochondrion
+c. Golgi apparatus
+d. Ribosome
+ANS: d
+
+30. In eukaryotes, introns are removed from pre-mRNA during ____.
+a. DNA replication
+b. Transcription
+c. Translation
+d. RNA splicing
+ANS: d
+
+31. DNA wrapped around histone proteins forms ____.
+a. Nucleosomes
+b. Chromatids
+c. Telomeres
+d. Centromeres
+ANS: a
+
+32. Loosely packed, transcriptionally active chromatin is called ____.
+a. Euchromatin
+b. Chromatin fiber
+c. Heterochromatin
+d. Nucleoid
+ANS: a
+
+33. Densely packed, transcriptionally inactive chromatin is called ____.
+a. Kinetochore
+b. Nucleosome
+c. Euchromatin
+d. Heterochromatin
+ANS: d
+
+34. Giemsa staining is used to produce ____ patterns on chromosomes.
+a. Contrast
+b. Fluorescence
+c. Silver
+d. Banding
+ANS: d
+
+35. A normal human somatic cell contains ____ chromosomes.
+a. 23
+b. 46
+c. 22
+d. 92
+ANS: b
+
+36. The promoter region of a gene is the binding site for ____.
+a. RNA polymerase
+b. Ribosomes
+c. Ligase
+d. DNA polymerase
+ANS: a
+
+37. The human genome refers to the complete set of ____ in a cell.
+a. Carbohydrates
+b. Proteins
+c. DNA
+d. Lipids
+ANS: c

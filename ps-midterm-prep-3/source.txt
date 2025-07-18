@@ -1,0 +1,244 @@
+1. A new drug inhibits the final step of DNA replication by binding DNA ligase. Which process is blocked?
+a. Joining Okazaki fragments
+b. Formation of RNA primer
+c. Leading strand synthesis
+d. Unwinding of DNA helix
+ANS: a
+
+2. A soil ecosystem loses earthworms; which service is most affected?
+a. Nitrogen fixation
+b. Carbon sequestration
+c. Pollination
+d. Soil aeration
+ANS: d
+
+3. A patient with scurvy lacks vitamin C; which process is impaired?
+a. Vision (rhodopsin regeneration)
+b. Blood clotting
+c. Collagen synthesis
+d. Nerve impulse transmission
+ANS: c
+
+4. Given a cell with a peptidoglycan cell wall but no nucleus, to which domain does it belong?
+a. Archaea
+b. Eukarya
+c. Bacteria
+d. Protista
+ANS: c
+
+5. A polypeptide starts with N-formylmethionine. This indicates which type of organism synthesized it?
+a. Mitochondrion
+b. Fungal cell
+c. Prokaryote
+d. Eukaryotic cytosol
+ANS: c
+
+6. If heterochromatin increases in a region, what happens to gene transcription there?
+a. No change
+b. It increases
+c. It decreases
+d. Global genome duplication
+ANS: c
+
+7. A mutation in the promoter reduces RNA polymerase binding. What is the effect?
+a. Transcription decreases
+b. RNA splicing increases
+c. Translation decreases
+d. Replication halts
+ANS: a
+
+8. Why is coupling of transcription and translation in prokaryotes beneficial?
+a. Increases replication speed
+b. Prevents RNA splicing
+c. Faster response to environmental changes
+d. Separates cellular compartments
+ANS: c
+
+9. A fatty acid deficiency leads to poor cell membrane fluidity. Which macromolecule is deficient?
+a. Nucleic acid
+b. Lipid
+c. Protein
+d. Carbohydrate
+ANS: b
+
+10. Rumen bacteria fix nitrogen into ammonia. Which process is this?
+a. Denitrification
+b. Nitrification
+c. Ammonification
+d. Nitrogen fixation
+ANS: d
+
+11. Given a gene with 3 introns and 4 exons, how many splicing events occur?
+a. 7
+b. 3
+c. 1
+d. 4
+ANS: b
+
+12. In a karyotype, an extra copy of chromosome 21 causes what condition?
+a. Monosomy
+b. Mosaicism
+c. Trisomy
+d. Polyploidy
+ANS: c
+
+13. A cell containing chloroplasts and mitochondria must be what type?
+a. Eukaryote
+b. Prokaryote
+c. Archaea
+d. Virus
+ANS: a
+
+14. A red blood cell has no mitochondria and no nucleus. Which organelle is absent?
+a. Ribosomes
+b. Golgi apparatus
+c. Endoplasmic reticulum
+d. Nucleus
+ANS: d
+
+15. A drug blocks the ribosomal peptidyl transferase center. Which stage is inhibited?
+a. Initiation
+b. Transcription
+c. Termination
+d. Elongation
+ANS: d
+
+16. Under heat stress, an organism struggles to maintain internal conditions. Which MRS GREN characteristic is this?
+a. Excretion
+b. Nutrition
+c. Regulation (homeostasis)
+d. Sensitivity
+ANS: c
+
+17. An increase in atmospheric CO₂ influences biodiversity by generally doing what?
+a. No effect
+b. Decreasing species diversity
+c. Increasing species diversity
+d. Unpredictable effects
+ANS: b
+
+18. Failure in osmoregulation leads to buildup of wastes. This is related to which characteristic?
+a. Excretion
+b. Growth
+c. Sensitivity
+d. Reproduction
+ANS: a
+
+19. A protein misfolding disease is due to an error in which macromolecule?
+a. Nucleic acid
+b. Carbohydrate
+c. Lipid
+d. Protein
+ANS: d
+
+20. The empirical formula for a simple carbohydrate is what ratio of C:H:O?
+a. 1:2:1
+b. 2:1:1
+c. 3:2:1
+d. 1:1:2
+ANS: a
+
+21. In gel electrophoresis, DNA fragments separate primarily by what property?
+a. Shape
+b. Charge only
+c. Size
+d. Sequence
+ANS: c
+
+22. In which cellular structure are ribosomes assembled?
+a. Lysosome
+b. Cytosol
+c. Nucleolus
+d. Golgi apparatus
+ANS: c
+
+23. A protein that speeds up reactions but is not consumed is what type?
+a. Structural protein
+b. Enzyme
+c. Storage protein
+d. Hormone
+ANS: b
+
+24. Up to 70% of species risk extinction with >3.5°C warming. What phenomenon is this?
+a. Speciation
+b. Biodiversity loss
+c. Migration
+d. Ecosystem gain
+ANS: b
+
+25. Dysbiosis of gut microbiota can lead to which condition?
+a. Enhanced memory
+b. Increased height
+c. Obesity
+d. Hair growth
+ANS: c
+
+26. A single amino acid substitution affects hemoglobin. Which structure level is changed?
+a. Secondary structure
+b. Quaternary structure
+c. Tertiary structure
+d. Primary structure
+ANS: d
+
+27. A restriction enzyme recognizes a palindromic DNA sequence. What defines a palindrome?
+a. Protein-coding motif
+b. Only repeats
+c. No function
+d. Same forward and reverse complement
+ANS: d
+
+28. In prokaryotes, nutrient uptake occurs across what structure?
+a. Ribosome
+b. Cell wall
+c. Plasma membrane
+d. Nucleus
+ANS: c
+
+29. During photophosphorylation, ATP is produced where?
+a. Cytoplasm
+b. Granum
+c. Thylakoid membrane
+d. Stroma
+ANS: c
+
+30. Which nucleotide is used in DNA replication but not in RNA transcription?
+a. GTP
+b. CTP
+c. ATP
+d. dTTP
+ANS: d
+
+31. Which protein structure includes alpha-helices and beta-sheets?
+a. Tertiary structure
+b. Secondary structure
+c. Primary structure
+d. Quaternary structure
+ANS: b
+
+32. A eukaryotic cell lacking centrioles but dividing normally likely is what?
+a. Plant cell
+b. Protist
+c. Fungal cell
+d. Animal cell
+ANS: a
+
+33. A pseudopod-forming unicellular eukaryote belongs to which kingdom?
+a. Animalia
+b. Fungi
+c. Plantae
+d. Protista
+ANS: d
+
+34. Blocking porin channels affects which process?
+a. Protein synthesis
+b. Cell division
+c. DNA replication
+d. Transport across mitochondrial outer membrane
+ANS: d
+
+35. DNA polymerase's 3'→5' exonuclease activity provides what function?
+a. Initiation
+b. Polymerization
+c. Termination
+d. Proofreading
+ANS: d
