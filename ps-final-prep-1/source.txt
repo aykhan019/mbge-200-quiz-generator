@@ -1,0 +1,1399 @@
+1. DNA replication is said to be semi-discontinuous because:
+a. Both strands are synthesized only in short fragments.
+b. Only one strand is copied at a time.
+c. Replication proceeds 3'→5' on one strand.
+d. One new strand is synthesized continuously while the other is synthesized in Okazaki fragments.
+ANS: d
+
+2. Which of the following is a difference between prokaryotic and eukaryotic ribosomes?
+a. Eukaryotic ribosomes are not found in the cytoplasm.
+b. Eukaryotic ribosomes are surrounded by a membrane.
+c. Prokaryotic ribosomes are smaller (70S) than eukaryotic ribosomes (80S).
+d. Prokaryotic ribosomes have no RNA in them.
+ANS: c
+
+3. Rosalind Franklin's X-ray crystallography of DNA provided evidence that:
+a. DNA replication is semi-conservative.
+b. RNA was the first genetic material.
+c. DNA is a double helix with phosphates on the outside and bases on the inside.
+d. DNA is made of protein.
+ANS: c
+
+4. Approximately how long is the total DNA in one human cell if fully stretched out?
+a. About 2 millimeters.
+b. About 2 meters in length.
+c. About 2 centimeters.
+d. About 2 kilometers.
+ANS: b
+
+5. Which of the following is an example of an endogenous source of DNA damage?
+a. Ultraviolet radiation from sunlight.
+b. Reactive oxygen species produced by cellular metabolism.
+c. Tobacco smoke carcinogens.
+d. Ionizing X-rays.
+ANS: b
+
+6. Endocytosis and exocytosis are processes cells use to:
+a. Produce ATP in the cytoplasm.
+b. Replicate DNA and distribute it to daughter cells.
+c. Move chromosomes during cell division.
+d. Take in materials from the environment (endocytosis) and expel materials or secrete substances (exocytosis) via membrane vesicles.
+ANS: d
+
+7. Meselson and Stahl's experiment in 1958 demonstrated that DNA replication is:
+a. Conservative (parent strands stay together).
+b. Dispersive (mixed old and new segments in each strand).
+c. Semi-conservative (each daughter DNA has one old strand and one new strand).
+d. Bidirectional.
+ANS: c
+
+8. Which six elements are most abundant in living organisms, as denoted by the acronym CHNOPS?
+a. Copper, Boron, Iodine, Manganese, Zinc, Iron.
+b. Carbon, Hydrogen, Nitrogen, Oxygen, Phosphorus, Sulfur.
+c. Carbon, Helium, Nickel, Osmium, Platinum, Silver.
+d. Calcium, Helium, Neon, Oxygen, Potassium, Sodium.
+ANS: b
+
+9. Which of the following is NOT evidence supporting the endosymbiotic origin of mitochondria and chloroplasts?
+a. They contain their own DNA and ribosomes, similar to those of bacteria.
+b. Their DNA is linear like eukaryotic chromosomal DNA.
+c. They replicate inside cells by a process akin to bacterial fission.
+d. They are surrounded by a double membrane.
+ANS: b
+
+10. During eukaryotic mRNA processing, what modification is added to the 5′ end of the pre-mRNA?
+a. Introns.
+b. A 7-methylguanosine cap.
+c. A poly-A tail.
+d. Exons.
+ANS: b
+
+11. In cell biology, "compartmentalization" refers to the fact that eukaryotic cells:
+a. Have internal membrane-bound organelles that carry out specialized functions.
+b. Have a large central vacuole.
+c. Have a high surface-area-to-volume ratio.
+d. Are divided into multiple cells.
+ANS: a
+
+12. Chargaff's rules state that in double-stranded DNA:
+a. The amount of adenine equals thymine, and the amount of guanine equals cytosine.
+b. DNA forms a triple helix structure.
+c. A + T = G + C.
+d. Base composition is identical in all species.
+ANS: a
+
+13. Which of the following structures is found in plant cells but NOT in animal cells?
+a. Ribosomes.
+b. Plasma membrane.
+c. Mitochondria.
+d. Chloroplasts.
+ANS: d
+
+14. A permanent change in the DNA sequence of a cell is known as a:
+a. Polymerase.
+b. Chromatid.
+c. Mutation.
+d. Lesion.
+ANS: c
+
+15. Which of the following enzymes is NOT directly involved in DNA replication?
+a. DNA polymerase.
+b. Primase.
+c. Helicase.
+d. RNA polymerase.
+ANS: d
+
+16. The two strands of a DNA double helix run:
+a. Antiparallel to each other (one strand 5'→3' and the other 3'→5').
+b. From the N-terminus to the C-terminus.
+c. Parallel in the same 5'→3' direction.
+d. Perpendicular to each other.
+ANS: a
+
+17. Horizontal gene transfer refers to:
+a. The movement of chromosomes during meiosis.
+b. Exchange of exons within the same gene.
+c. The acquisition of genetic material from another organism without being its offspring (e.g. bacteria exchanging resistance genes).
+d. Gene transfer from parent to offspring (vertical inheritance).
+ANS: c
+
+18. Which statement about archaea is correct?
+a. Archaea cannot survive at temperatures above 40 °C.
+b. Archaea are not actually prokaryotes.
+c. Archaea often live in extreme environments and, unlike many bacteria, no archaea are known to cause disease in humans.
+d. Archaea have peptidoglycan cell walls just like bacteria.
+ANS: c
+
+19. Which of the following are common shapes of bacteria?
+a. Amorphous (no consistent shape).
+b. Only spherical (cocci).
+c. Spherical (cocci), rod-shaped (bacilli), and spiral (spirilla).
+d. Cuboidal, pyramidal, and conical.
+ANS: c
+
+20. The enzyme ribonucleotide reductase, which converts ribonucleotides to deoxyribonucleotides, suggests that:
+a. Early life started with DNA and later switched to RNA.
+b. Proteins were likely the first genetic material.
+c. RNA cannot be made from simpler precursors.
+d. DNA (deoxyribonucleotides) evolved later from an RNA-based genome, since cells needed to enzymatically reduce RNA building blocks to DNA.
+ANS: d
+
+21. During eukaryotic mRNA processing, what modification is added to the 3′ end of the pre-mRNA?
+a. Exons.
+b. A 7-methylguanosine cap.
+c. A poly-A tail (a string of adenine nucleotides).
+d. Introns.
+ANS: c
+
+22. Which statement correctly distinguishes mitosis from meiosis?
+a. Crossing-over occurs in mitosis but not in meiosis.
+b. Meiosis occurs in somatic cells, mitosis occurs only in gametes.
+c. Mitosis produces two genetically identical diploid cells, whereas meiosis produces four genetically diverse haploid cells.
+d. Mitosis results in haploid cells, meiosis results in diploid cells.
+ANS: c
+
+23. What provides the energy for DNA polymerase to add a nucleotide to a growing DNA strand?
+a. ATP hydrolysis by DNA polymerase.
+b. Hydrolysis of the incoming nucleotide’s high-energy phosphate bonds (releasing pyrophosphate).
+c. DNA ligase provides the energy.
+d. The DNA template strand itself.
+ANS: b
+
+24. Major histocompatibility complex (MHC) proteins – called HLA in humans – on cell surfaces are important because they:
+a. Allow the immune system to recognize which cells belong to the body (self) versus foreign cells, crucial for immune responses and transplant compatibility.
+b. Pump ions across the plasma membrane.
+c. Transport oxygen in the bloodstream.
+d. Enable muscle contraction by interacting with actin.
+ANS: a
+
+25. Which of the following is true of viruses?
+a. Viruses lack cellular machinery and metabolism; they must infect a host cell to reproduce.
+b. All viruses have both DNA and RNA genomes at the same time.
+c. Viruses can generate ATP and reproduce outside of cells.
+d. Viruses are considered living cells.
+ANS: a
+
+26. A genetic variant that is common in the population and typically does not cause an adverse phenotype is called:
+a. A polymorphism.
+b. a missense mutation.
+c. a frameshift mutation.
+d. an intron.
+ANS: a
+
+27. Which invention was critical for the discovery of cells and their internal structures?
+a. The light microscope.
+b. The thermometer.
+c. The ultracentrifuge.
+d. The Petri dish.
+ANS: a
+
+28. Which statement about ribosomes is true?
+a. Ribosomes synthesize DNA.
+b. Ribosomes are surrounded by a single membrane.
+c. Ribosomes are present only in the nucleus.
+d. Ribosomes are composed of rRNA and protein and carry out protein synthesis in both prokaryotes and eukaryotes.
+ANS: d
+
+29. Which of the following is NOT a primary function of DNA?
+a. Self-duplication and inheritance of information.
+b. Directing the synthesis of RNA and proteins.
+c. Storing genetic information.
+d. Catalyzing metabolic reactions (as enzymes).
+ANS: d
+
+30. Which of the following is a criterion generally required of a good model organism in research?
+a. A large body size and long lifespan.
+b. Greater genetic complexity than humans.
+c. A short generation time and ease of genetic manipulation.
+d. Inability to reproduce in the lab.
+ANS: c
+
+31. Which of the following describes the flow of genetic information according to the central dogma of molecular biology?
+a. DNA → Protein → RNA.
+b. DNA → RNA → Protein.
+c. RNA → DNA → Protein.
+d. Protein → RNA → DNA.
+ANS: b
+
+32. Which of the following occurs in prokaryotes but NOT in eukaryotes?
+a. Genes have introns spliced out after transcription.
+b. mRNA is processed with a cap and tail before translation.
+c. Translation occurs on ribosomes.
+d. Transcription and translation are coupled (translation begins while the mRNA is still being transcribed).
+ANS: d
+
+33. Individuals with a mutation in the CCR5 gene (a cell surface receptor) are known to be:
+a. Resistant to HIV infection, because the virus cannot effectively enter their cells.
+b. Unable to contract malaria.
+c. Susceptible to all viral infections.
+d. Deficient in immune cells.
+ANS: a
+
+34. During translation, the mRNA is read in the ______ direction and the protein is synthesized from the ______ terminus to the ______ terminus.
+a. 5′→3′ ; amino (N-) terminus to carboxyl (C-) terminus.
+b. 5′→3′ ; C-terminus to N-terminus.
+c. 3′→5′ ; N-terminus to C-terminus.
+d. 3′→5′ ; C-terminus to N-terminus.
+ANS: a
+
+35. A point mutation that changes a codon to a stop codon is known as a:
+a. Silent mutation.
+b. Missense mutation.
+c. Nonsense mutation.
+d. Frameshift mutation.
+ANS: c
+
+36. Which of the following scenarios describes horizontal gene transfer?
+a. Genetic material is transferred from mRNA to DNA in a cell.
+b. A bacterium acquires an antibiotic resistance gene from another bacterium via a plasmid.
+c. A skin cell passes a mutation to daughter skin cells when it divides.
+d. A child inherits a mutation from a parent.
+ANS: b
+
+37. An essential human nutrient that must be obtained from the diet because the body cannot synthesize it is:
+a. Cholesterol.
+b. Glucose.
+c. An essential amino acid.
+d. DNA.
+ANS: c
+
+38. The basic unit of chromatin packing in eukaryotes, consisting of DNA wrapped around histone proteins, is called a:
+a. Nucleolus.
+b. Nucleosome.
+c. Nucleotide.
+d. Centromere.
+ANS: b
+
+39. The Miller-Urey experiment (1953) demonstrated that:
+a. Organic molecules like amino acids could form from simple inorganic molecules under conditions simulating early Earth (with electrical sparks as energy).
+b. Life began from extraterrestrial seeding.
+c. RNA can self-replicate outside of cells without enzymes.
+d. DNA can form spontaneously in a reducing atmosphere.
+ANS: a
+
+40. Crossing-over during meiosis typically occurs between:
+a. Any two random chromatids in the nucleus.
+b. Sister chromatids of the same chromosome.
+c. Non-sister chromatids of homologous chromosomes (one chromatid of each homolog).
+d. Non-homologous chromosomes.
+ANS: c
+
+41. Thymine dimers in DNA (covalent links between adjacent thymine bases) are most commonly caused by:
+a. Reactive oxygen species.
+b. Ultraviolet (UV) radiation.
+c. Ionizing radiation (X-rays).
+d. Chemical mutagens like alkylating agents.
+ANS: b
+
+42. Spontaneous depurination in DNA results in:
+a. A thymine dimer.
+b. A double-strand break.
+c. The loss of a purine base (adenine or guanine) from the DNA backbone, leaving an abasic site.
+d. The conversion of cytosine to uracil.
+ANS: c
+
+43. Why is DNA more suitable than RNA for long-term storage of genetic information?
+a. DNA forms a triple helix to protect itself.
+b. RNA cannot form any double-stranded structures.
+c. DNA can catalyze its own replication, whereas RNA cannot.
+d. DNA is more chemically stable (it lacks the 2′-OH group that makes RNA prone to hydrolysis) and uses thymine instead of uracil, allowing repair of deaminated cytosine.
+ANS: d
+
+44. In the Hershey-Chase experiment (1952) with bacteriophages, viral DNA was specifically labeled with _____ and viral protein with ____; only the DNA label entered bacteria, showing DNA is genetic material.
+a. ³²P ; ³⁵S.
+b. ³²S ; ³⁵P.
+c. ³⁵S ; ³⁵P.
+d. ³H ; ¹⁴C.
+ANS: a
+
+45. Why does cancer incidence tend to increase dramatically with age?
+a. Telomeres lengthen over time, causing cancer.
+b. Cells divide much faster in older individuals.
+c. The immune system strengthens with age, detecting more cancers.
+d. Mutations accumulate over time in cells, increasing the chance that critical genes (e.g. tumor suppressors or oncogenes) acquire harmful mutations.
+ANS: d
+
+46. Which of the following is a proposed cause of cellular aging?
+a. Decreased production of reactive oxygen species (ROS).
+b. Increased telomerase activity in somatic cells.
+c. Gradual telomere shortening with each cell division, eventually triggering cell senescence.
+d. Enhanced DNA repair efficiency over time.
+ANS: c
+
+47. If a somatic (body) cell mutation (e.g., from UV exposure in skin) occurs in an individual, why will it NOT be passed on to the person's children?
+a. Because UV light only mutates skin, not DNA.
+b. Because the individual will not survive to reproduce.
+c. Because the mutation is repaired in the germ line.
+d. Because only mutations in germ line cells (sperm or eggs) can be inherited by offspring.
+ANS: d
+
+48. Which codon typically serves as the start codon in mRNA translation, and which amino acid does it code for?
+a. AUG, coding for methionine.
+b. UAG, coding for methionine.
+c. AUG, coding for valine.
+d. UAA, coding for leucine.
+ANS: a
+
+49. What is a pseudogene?
+a. A gene that lacks introns.
+b. A highly expressed gene.
+c. A gene that produces multiple proteins.
+d. A nonfunctional, typically non-expressed copy of a gene that arose from a duplication or retrotransposition event.
+ANS: d
+
+50. Fred Griffith's 1928 experiment with Streptococcus pneumoniae demonstrated that:
+a. A "transforming principle" from dead bacteria could permanently change (transform) live bacteria, indicating genetic information can be transferred.
+b. DNA has a double helix structure.
+c. Proteins carry genetic information.
+d. Bacteria do not cause disease when heat-killed.
+ANS: a
+
+51. A point mutation that changes one amino acid codon to another (resulting in a different amino acid) is called a:
+a. Missense mutation.
+b. Nonsense mutation.
+c. Silent mutation.
+d. Frameshift mutation.
+ANS: a
+
+52. The first evidence of eukaryotic cells appears in the fossil record approximately:
+a. 1.5 billion years ago.
+b. 4.6 billion years ago.
+c. 3.9 billion years ago.
+d. 200 million years ago.
+ANS: a
+
+53. Which of the following can some RNA molecules (ribozymes) do that was once thought to be exclusive to proteins?
+a. Catalyze chemical reactions (e.g., self-cleave or polymerize RNA).
+b. Store genetic information.
+c. Form a double helix.
+d. Self-replicate entire chromosomes without proteins.
+ANS: a
+
+54. In sexually reproducing organisms, only mutations in ______ cells are passed on to progeny.
+a. Somatic (body).
+b. Germ line (reproductive).
+c. Cancer.
+d. Skin.
+ANS: b
+
+55. Which of the following is a mechanism that can create a family of related genes in a genome?
+a. RNA splicing.
+b. Point mutation in a promoter.
+c. Horizontal gene transfer.
+d. Gene duplication followed by divergence of the copies.
+ANS: d
+
+56. What is the function of the small and large subunits of a ribosome?
+a. The subunits are only present in eukaryotes.
+b. The small subunit binds mRNA and tRNAs, and the large subunit catalyzes the formation of peptide bonds between amino acids.
+c. Both subunits store genetic information.
+d. The small subunit transcribes DNA, and the large subunit translates RNA.
+ANS: b
+
+57. Which of the following statements is true of telomerase?
+a. It repairs mismatched bases in DNA.
+b. It unwinds DNA at the replication fork.
+c. It is a DNA polymerase that carries its own RNA template and extends the ends of chromosomes to prevent their shortening.
+d. It seals nicks between Okazaki fragments.
+ANS: c
+
+58. In eukaryotes, which type of RNA polymerase transcribes protein-coding genes into mRNA?
+a. RNA polymerase I.
+b. RNA polymerase II.
+c. RNA polymerase III.
+d. DNA polymerase.
+ANS: b
+
+59. Why do bacteria typically not require telomerase?
+a. They have no DNA polymerase.
+b. They use RNA as genetic material instead of DNA.
+c. Their chromosomes are circular and thus do not have ends that face the end-replication problem.
+d. Their chromosomes are too small to need it.
+ANS: c
+
+60. The basic structure of a gene in a eukaryote includes:
+a. Only a coding region with no regulatory sequences.
+b. RNA polymerase molecules bound to it.
+c. A single continuous exon with no introns or promoters.
+d. A promoter (regulatory region) and a coding region (which may include exons and introns).
+ANS: d
+
+61. Why is exon shuffling rarely seen in prokaryotes?
+a. Prokaryotes do not undergo genetic recombination.
+b. Prokaryotes have only one chromosome.
+c. Prokaryotic genes are too short to shuffle.
+d. Prokaryotes generally lack introns, so they have less opportunity for exons to be mixed and recombined.
+ANS: d
+
+62. Which of the following best describes the role of a gene’s promoter?
+a. It is an RNA sequence at the end of a transcript.
+b. It is the coding portion of the gene that gets translated.
+c. It is an enzyme that synthesizes RNA.
+d. It is the DNA sequence where RNA polymerase and transcription factors bind to initiate transcription of the gene.
+ANS: d
+
+63. In the genetic code, a sequence of three mRNA bases (codon) encodes one amino acid. How many unique codons are possible?
+a. 4.
+b. 20.
+c. 16.
+d. 64.
+ANS: d
+
+64. Which of the following statements about sexual reproduction is true?
+a. It produces offspring genetically identical to the parent.
+b. It does not involve fusion of gametes.
+c. It increases genetic variation among offspring through independent assortment and crossing-over.
+d. It occurs only in prokaryotes.
+ANS: c
+
+65. What type of bond links amino acids together in a protein?
+a. Hydrogen bond.
+b. Phosphodiester bond.
+c. Peptide bond (an amide bond between the carboxyl group of one amino acid and the amino group of the next).
+d. Glycosidic bond.
+ANS: c
+
+66. The insertion of a single nucleotide into a coding sequence typically causes:
+a. A silent mutation.
+b. A missense mutation affecting only one amino acid.
+c. No change to the protein sequence.
+d. A frameshift mutation, altering the reading frame and potentially introducing a premature stop codon.
+ANS: d
+
+67. In 1982, Thomas Cech and Sidney Altman discovered that certain RNA molecules (ribozymes) can act as enzymes. This finding supports which hypothesis?
+a. The central dogma.
+b. The endosymbiotic theory.
+c. The one-gene-one-enzyme hypothesis.
+d. The RNA World hypothesis (that early life used RNA for both genetic information and catalysis before DNA and proteins).
+ANS: d
+
+68. Which process in bacteria allows for direct exchange of genetic material between two bacterial cells?
+a. Conjugation (transfer of DNA via direct cell-to-cell contact).
+b. Meiosis.
+c. Transcription.
+d. Binary fission.
+ANS: a
+
+69. Which is NOT a typical level at which eukaryotic gene expression is regulated?
+a. Transcriptional control (whether and how much a gene is transcribed).
+b. Post-translational control (modifying protein activity or stability).
+c. Direct alteration of the DNA code in each cell type (DNA sequence changes for expression).
+d. Translational control (which mRNAs are translated and how efficiently).
+ANS: c
+
+70. The evolution of the globin gene family (hemoglobin subunits, etc.) occurred primarily through:
+a. Exon shuffling involving non-homologous chromosomes.
+b. Horizontal gene transfer between species.
+c. Gene duplication followed by mutation and divergence of the gene copies.
+d. Point mutations within a single gene, without duplication.
+ANS: c
+
+71. In DNA mismatch repair, how do the repair enzymes distinguish the newly synthesized strand from the template strand?
+a. The new strand has uracil instead of thymine.
+b. The new strand is shorter.
+c. The new strand is not yet methylated (in bacteria) or contains nicks (in eukaryotes), whereas the template strand is methylated/intact.
+d. The repair enzymes cannot distinguish them.
+ANS: c
+
+72. What is the approximate age of the Earth, according to scientific evidence?
+a. ~6,000 years.
+b. ~4.6–4.7 billion years.
+c. ~13.8 billion years.
+d. ~3.6–3.7 million years.
+ANS: b
+
+73. Which of the following cellular components contains its own DNA and is thought to have originated from an endosymbiotic event?
+a. Mitochondrion.
+b. Lysosome.
+c. Ribosome.
+d. Peroxisome.
+ANS: a
+
+74. Which of the following molecules is used to carry amino acids to the ribosome during translation?
+a. rRNA.
+b. mRNA.
+c. tRNA (transfer RNA).
+d. DNA.
+ANS: c
+
+75. A point mutation that does NOT change the amino acid sequence of the protein is called a:
+a. Missense mutation.
+b. Frameshift mutation.
+c. Nonsense mutation.
+d. Silent mutation.
+ANS: d
+
+76. What did Avery, MacLeod, and McCarty conclude from their 1944 experiments with pneumococcal bacteria?
+a. DNA is the molecule that carries heritable genetic information (it transformed non-virulent bacteria when purified DNA was added).
+b. Proteins are the genetic material.
+c. RNA is the genetic material.
+d. Polysaccharides cause transformation.
+ANS: a
+
+77. Why can a nerve cell and a muscle cell from the same human look and function so differently despite having the same DNA?
+a. They have different numbers of chromosomes.
+b. They express different sets of genes; some genes are active in one cell type and silent in the other.
+c. Their DNA sequences are completely different.
+d. Nerve cells get more DNA from the father, muscle cells from the mother.
+ANS: b
+
+78. The insertion or deletion of 1–2 nucleotides in a coding sequence often has a more drastic effect than the insertion of 3 nucleotides because:
+a. Insertions/deletions of 3 nucleotides always have no effect.
+b. Our cells cannot repair single-nucleotide indels.
+c. 1–2 nucleotide changes cause a frameshift, altering the downstream reading frame of the protein, whereas inserting 3 nucleotides adds or deletes one amino acid but leaves the reading frame intact.
+d. Triplet codons are not used by the ribosome.
+ANS: c
+
+79. Which scenario is an example of a beneficial mutation in humans?
+a. A mutation in a gene leading to cystic fibrosis.
+b. A mutation in the hemoglobin gene that provides resistance to malaria (e.g., the sickle-cell trait).
+c. A mutation causing uncontrolled cell division (cancer).
+d. A mutation deleting the CCR5 receptor, leading to immunodeficiency.
+ANS: b
+
+80. What is one reason DNA polymerase synthesizes new DNA only in the 5′ to 3′ direction?
+a. Nucleotides only exist in a 5′ form.
+b. The 3′ end of the growing strand provides a free –OH for the next nucleotide and allows proofreading; if DNA were made 3′→5′, removing an incorrect nucleotide would leave no high-energy bond to continue polymerization.
+c. Actually, DNA polymerase can synthesize 3′→5′ in some organisms.
+d. DNA templates are read 3′→5′.
+ANS: b
+
+81. If a somatic cell (diploid) has 2N chromosomes, how many chromosomes will each gamete (haploid) have after meiosis?
+a. 0 (gametes have RNA genomes).
+b. 4N chromosomes.
+c. N chromosomes.
+d. 2N chromosomes.
+ANS: c
+
+82. In which phase of meiosis does crossing-over (genetic recombination between homologous chromosomes) occur?
+a. Prophase II of meiosis.
+b. Prophase I of meiosis.
+c. During mitotic prophase.
+d. During fertilization.
+ANS: b
+
+83. What is the function of DNA ligase in DNA replication?
+a. It unwinds the DNA helix ahead of the fork.
+b. It synthesizes RNA primers for DNA polymerase.
+c. It joins Okazaki fragments on the lagging strand by sealing nicks in the sugar-phosphate backbone.
+d. It adds nucleotides to the growing DNA strand.
+ANS: c
+
+84. A certain mutation changes a GAA codon (which encodes glutamic acid) to GUA (which encodes valine). This type of mutation is best described as:
+a. A nonsense mutation.
+b. A missense mutation.
+c. A frameshift mutation.
+d. A silent mutation.
+ANS: b
+
+85. The major reason cancer rates increase with age is:
+a. Older people’s cells divide much faster.
+b. Over time, cells accumulate more mutations in their DNA, increasing the likelihood that critical genes controlling cell growth will be disrupted.
+c. Telomerase activity increases with age, causing more mutations.
+d. Younger people have more efficient DNA repair.
+ANS: b
+
+86. If the coding region of a gene (exons) is highly conserved between two species but the intronic sequences are very different, it suggests:
+a. Introns carry the key functional information of genes.
+b. Changes in introns are often less critical (do not affect protein sequence) and can accumulate, whereas changes in exons are more likely to affect protein function and thus are selected against.
+c. Exons mutate faster than introns.
+d. The two species are not actually related.
+ANS: b
+
+87. Which component of the cytoskeleton is responsible for separating chromosomes during cell division?
+a. Myosin filaments.
+b. Microtubules (they form the mitotic spindle that pulls chromosomes apart).
+c. Actin filaments.
+d. Intermediate filaments.
+ANS: b
+
+88. Which chromosomal abnormality is created by the translocation between human chromosomes 9 and 22, leading to a fusion gene associated with chronic myelogenous leukemia?
+a. The Philadelphia chromosome.
+b. The presence of an extra X chromosome (Klinefelter syndrome).
+c. Trisomy 21 (Down syndrome).
+d. A deletion of chromosome 5q.
+ANS: a
+
+89. What is the typical structure of a bacterial genome?
+a. RNA as genetic material instead of DNA.
+b. A single circular DNA chromosome (located in the nucleoid region).
+c. Multiple linear DNA chromosomes enclosed in a nucleus.
+d. DNA packaged around histones in nucleosomes.
+ANS: b
+
+90. What key evidence led Avery, MacLeod, and McCarty to conclude that DNA (and not protein or RNA) was the "transforming principle"?
+a. The transforming substance had a high phosphorus content like proteins do.
+b. The transforming substance could be precipitated by alcohol.
+c. DNA-digesting enzymes destroyed the transforming ability, whereas protein- or RNA-digesting enzymes did not.
+d. Protease treatment destroyed the transforming activity.
+ANS: c
+
+91. Why do prokaryotes often adapt quickly to environmental changes?
+a. Their genes are constantly rearranging by meiosis.
+b. They have slower DNA replication fidelity.
+c. They have short generation times and can accumulate beneficial mutations quickly, and they can exchange genes (e.g., via plasmids) between individuals.
+d. They have multiple nuclei.
+ANS: c
+
+92. Which organelle in eukaryotic cells captures energy from sunlight to produce organic molecules and oxygen?
+a. Chloroplast.
+b. Mitochondrion.
+c. Nucleus.
+d. Lysosome.
+ANS: a
+
+93. Which of the following statements about proteins is FALSE?
+a. Proteins are the genetic material of cells.
+b. Proteins can serve as enzymes, structural components, hormones, and antibodies.
+c. The three-dimensional shape of a protein is determined by its amino acid sequence.
+d. Proteins are polymers of amino acids.
+ANS: a
+
+94. In DNA, cytosine (C) bases are often chemically deaminated to form uracil (U). Why is having thymine (T) in DNA (instead of uracil) important in this context?
+a. Uracil in DNA is recognized as "foreign" (from deaminated C) and can be removed and repaired, since normally DNA does not contain uracil. If DNA used uracil normally, such damage would be harder to detect.
+b. Uracil forms too many hydrogen bonds with adenine.
+c. Thymine makes DNA double helix more stable purely by hydrophobic interactions.
+d. There is actually no known reason; it is a historical accident of evolution.
+ANS: a
+
+95. A eukaryotic mRNA molecule typically has noncoding regions at its ends. What are these regions called?
+a. Promoters.
+b. Poly-A tails.
+c. Introns.
+d. Untranslated regions (5′ UTR and 3′ UTR).
+ANS: d
+
+96. An organism's genome can be altered by mobile genetic elements (transposons). How can transposons affect the genome?
+a. By inserting into new locations, they can disrupt genes or regulatory regions and facilitate genome rearrangements.
+b. They permanently stabilize the genome sequence.
+c. They exclusively cause whole genome duplications.
+d. They only function in RNA viruses.
+ANS: a
+
+97. Which organelle is often called the "powerhouse of the cell" and why?
+a. Lysosome, because it digests macromolecules for energy.
+b. Nucleus, because it controls cell activities.
+c. Chloroplasts, because they contain chlorophyll.
+d. Mitochondria, because they generate most of the cell’s ATP via aerobic respiration.
+ANS: d
+
+98. What key advantage does sexual reproduction have over asexual reproduction?
+a. It does not require any energy investment.
+b. It generates genetic diversity among offspring, which can enhance adaptability to changing environments.
+c. It is faster and produces more offspring per unit time.
+d. It produces clones of the parent, preserving successful genomes exactly.
+ANS: b
+
+99. Ultraviolet radiation primarily causes which kind of DNA damage?
+a. Depurination events.
+b. Formation of thymine-thymine dimers in DNA.
+c. Mismatches during replication.
+d. Double-strand breaks.
+ANS: b
+
+100. Which chromosomal condition is necessary for human survival?
+a. Having no X chromosomes.
+b. Having at least one X chromosome (the X chromosome contains vital genes required for life).
+c. Having exactly two Y chromosomes.
+d. Having a Y chromosome.
+ANS: b
+
+101. The small subunit of the ribosome is responsible for:
+a. Catalyzing peptide bond formation.
+b. Binding mRNA and the initiator tRNA, and ensuring correct base-pairing between the codon and anticodon.
+c. Transcribing rRNA genes.
+d. Terminating translation at stop codons.
+ANS: b
+
+102. After DNA replication, each chromosome consists of two identical DNA molecules known as:
+a. Sister chromatids.
+b. Centrosomes.
+c. Homologous chromosomes.
+d. Nucleoli.
+ANS: a
+
+103. Why do eukaryotic chromosomes have multiple origins of replication?
+a. To ensure the large, chromatin-packed genome is fully replicated in a timely manner (multiple replication start sites speed up DNA replication).
+b. So that transcription can occur simultaneously.
+c. To reduce the error rate of replication.
+d. Because eukaryotic DNA polymerase is much faster.
+ANS: a
+
+104. The process by which bacterial cells divide is:
+a. Meiosis.
+b. Mitosis.
+c. Budding of spores.
+d. Binary fission (the cell splits into two identical daughter cells).
+ANS: d
+
+105. Which cytoskeletal filament type primarily serves to strengthen cells and help them withstand mechanical stress?
+a. Microtubules.
+b. Actin filaments (microfilaments).
+c. Collagen fibers.
+d. Intermediate filaments.
+ANS: d
+
+106. In a DNA double helix, adenine on one strand pairs with ______ on the opposite strand, and cytosine pairs with ______.
+a. Thymine; uracil.
+b. Guanine; thymine.
+c. Uracil; guanine.
+d. Thymine; guanine.
+ANS: d
+
+107. Which process repairs errors that escape the replication machinery’s proofreading in newly synthesized DNA?
+a. Mismatch repair.
+b. Nucleotide excision repair.
+c. Base excision repair.
+d. Homologous recombination.
+ANS: a
+
+108. What is the key outcome of the Hershey-Chase "blender" experiment using bacteriophages labeled with ³²P and ³⁵S?
+a. It found RNA was the hereditary material in phages.
+b. It confirmed that DNA (labeled with ³²P) enters bacterial cells, whereas protein (³⁵S) remains outside, indicating DNA is the genetic material.
+c. It demonstrated that viruses do not contain DNA.
+d. It showed protein carries genetic information into bacteria.
+ANS: b
+
+109. Which of the following is a proposed mechanism of evolutionary change in genomes?
+a. Protein folding – proteins evolve by refolding into new shapes.
+b. Blending inheritance.
+c. Exon shuffling – new genes can arise by recombination mixing exons of existing genes (especially in eukaryotes with introns).
+d. Lamarckian use-and-disuse genetic change.
+ANS: c
+
+110. Which types of bonds hold the two strands of a DNA double helix together?
+a. Ionic bonds between phosphate groups.
+b. Covalent bonds between base pairs.
+c. Peptide bonds between nucleotides.
+d. Hydrogen bonds between complementary bases (A with T, C with G).
+ANS: d
+
+111. In aerobic respiration within mitochondria, what are the inputs and outputs?
+a. Mitochondria produce oxygen and ATP using CO₂.
+b. Mitochondria consume oxygen (O₂) and produce carbon dioxide (CO₂) while generating ATP.
+c. Mitochondria consume CO₂ and produce O₂.
+d. Mitochondria consume glucose and produce O₂.
+ANS: b
+
+112. What is the significance of the experiments by Beadle and Tatum on bread mold (Neurospora) in the 1940s?
+a. They demonstrated semiconservative DNA replication.
+b. They showed DNA is double-stranded.
+c. They proved RNA can act as an enzyme.
+d. They led to the one-gene-one-enzyme hypothesis (each gene encodes a specific enzyme).
+ANS: d
+
+113. During translation, the peptide bond formation is catalyzed by:
+a. A specialized ribosomal protein enzyme.
+b. tRNA synthetase.
+c. DNA polymerase.
+d. Ribosomal RNA (rRNA) in the large ribosomal subunit acting as a ribozyme.
+ANS: d
+
+114. The human haploid genome (in a sperm or egg) contains approximately:
+a. 3 billion base pairs of DNA.
+b. 3 million base pairs.
+c. 100,000 genes.
+d. 46 chromosomes.
+ANS: a
+
+115. Which of the following best describes what occurs during transcription?
+a. The information in DNA is copied into an RNA molecule by RNA polymerase.
+b. The information in mRNA is used to synthesize protein.
+c. Proteins are synthesized from amino acids.
+d. DNA is replicated to form a new DNA molecule.
+ANS: a
+
+116. Which of the following cell types would not contain a nucleus?
+a. A plant leaf cell.
+b. A mature mammalian red blood cell (erythrocyte).
+c. A yeast cell.
+d. A neuron.
+ANS: b
+
+117. The central dogma of molecular biology, as stated by Francis Crick, involves:
+a. Protein encoding RNA, which encodes DNA.
+b. DNA being transcribed into RNA, which is then translated into protein.
+c. DNA directly translating into protein.
+d. RNA being transcribed into DNA, which is translated to protein.
+ANS: b
+
+118. A certain metabolic reaction in cells produces hydrogen peroxide (H₂O₂), which is toxic. Which organelle contains enzymes (like catalase) to break down H₂O₂ into water and oxygen?
+a. Lysosome.
+b. Golgi apparatus.
+c. Peroxisome.
+d. Ribosome.
+ANS: c
+
+119. Which of the following statements is true regarding prokaryotic genomes?
+a. Prokaryotic genomes contain large introns.
+b. Prokaryotic DNA is wrapped around histones.
+c. Prokaryotes typically have a single circular chromosome located in the cytoplasm.
+d. Prokaryotes have multiple chromosomes in a nucleus.
+ANS: c
+
+120. What major event around 2.5 billion years ago dramatically increased atmospheric oxygen and paved the way for aerobic respiration?
+a. The evolution of oxygenic photosynthesis by cyanobacteria.
+b. The Big Bang.
+c. The formation of Earth’s core.
+d. The evolution of land plants.
+ANS: a
+
+121. What is the key advantage of proofreading activity in DNA polymerases?
+a. It significantly lowers the error rate of DNA replication by removing incorrectly paired nucleotides immediately.
+b. It speeds up the replication process.
+c. It allows DNA polymerase to synthesize 3′→5′.
+d. It enables DNA polymerase to start synthesis without a primer.
+ANS: a
+
+122. The poly-A tail added to eukaryotic mRNA:
+a. Helps stabilize the mRNA and regulates its translation and degradation.
+b. Is translated into a long stretch of lysines.
+c. Is added to the 5′ end of the mRNA.
+d. Is a cap structure.
+ANS: a
+
+123. A eukaryotic gene often contains noncoding sequences that interrupt the coding sequence. These noncoding segments are called:
+a. Exons.
+b. Introns.
+c. Codons.
+d. Promoters.
+ANS: b
+
+124. In the polymerase chain reaction (PCR), DNA is amplified by repeatedly cycling through:
+a. Denaturation (strand separation), primer annealing, and primer extension by a heat-stable DNA polymerase.
+b. Transcription and translation steps.
+c. Mutagenesis and selection.
+d. Cell division in a culture.
+ANS: a
+
+125. What is a common use of the model organism *Drosophila melanogaster* (fruit fly) in research?
+a. Studying plant physiology.
+b. Studying genetics and development – it has a short life cycle and well-understood genetic system.
+c. As a model for bacterial infections.
+d. Producing antibiotics.
+ANS: b
+
+126. Which form of DNA repair is especially prone to introducing mutations (although it quickly rejoins broken DNA ends)?
+a. Photoreactivation of thymine dimers.
+b. Non-homologous end joining (NHEJ) repair of double-strand breaks.
+c. Homologous recombination repair of double-strand breaks.
+d. Base excision repair of single-base damage.
+ANS: b
+
+127. Bacterial cell walls are made of _______, whereas plant cell walls are made of _______.
+a. Cellulose; chitin.
+b. Chitin; peptidoglycan.
+c. Glycoprotein; lignin.
+d. Peptidoglycan; cellulose.
+ANS: d
+
+128. In *E. coli*, the lack operon is an example of gene regulation at the level of:
+a. Protein degradation.
+b. mRNA splicing.
+c. Transcription – the genes for lactose metabolism are either transcribed or not depending on lactose presence (controlled by a repressor).
+d. Translation – ribosomes choose whether to translate the operon’s mRNA.
+ANS: c
+
+129. Which major experiment provided the first evidence that DNA, rather than protein, is the genetic material?
+a. Meselson and Stahl’s DNA replication experiment.
+b. Griffith’s experiment with smooth and rough pneumococcal strains.
+c. The Hershey-Chase blender experiment with ³²P and ³⁵S-labeled bacteriophages.
+d. Avery, MacLeod, and McCarty’s biochemical purification experiment.
+ANS: c
+
+130. Which form of RNA brings amino acids to the ribosome during protein synthesis?
+a. rRNA (ribosomal RNA).
+b. mRNA (messenger RNA).
+c. tRNA (transfer RNA).
+d. snRNA (small nuclear RNA).
+ANS: c
+
+131. If a diploid organism has 22 pairs of autosomal chromosomes and one pair of sex chromosomes, how many total chromosomes will its somatic cells have?
+a. 22.
+b. 23.
+c. 44.
+d. 46 (44 autosomes + XX or XY).
+ANS: d
+
+132. What term describes the set of three nucleotides in tRNA that is complementary to a specific mRNA codon?
+a. Anticodon.
+b. Codon.
+c. Promoter.
+d. Intron.
+ANS: a
+
+133. What is the primary role of molecular chaperones in cells?
+a. They escort mRNAs out of the nucleus.
+b. They hold sister chromatids together.
+c. They assist in the proper folding of polypeptides into functional proteins and help refold or degrade misfolded proteins.
+d. They act as enzymes in metabolic pathways.
+ANS: c
+
+134. Why are individuals with the sickle-cell trait (heterozygous for the sickle-cell mutation in hemoglobin) more resistant to malaria?
+a. The presence of some sickled red cells makes it harder for the malaria parasite to complete its life cycle.
+b. The parasite cannot infect any of their red blood cells.
+c. They have more red blood cells than normal.
+d. They have stronger immune systems.
+ANS: a
+
+135. Which characteristic of the genetic code allows silent mutations (mutations that do not change the amino acid sequence) to occur?
+a. The code is universal.
+b. mRNA is read 5′ to 3′.
+c. Codons are three nucleotides long.
+d. The genetic code is degenerate/redundant – most amino acids are specified by more than one codon, so a change in the third base often does not change the amino acid.
+ANS: d
+
+136. The process by which RNA is synthesized from a DNA template is called:
+a. Replication.
+b. Translation.
+c. Transcription.
+d. Transposition.
+ANS: c
+
+137. In Mendelian genetics, if an organism has two identical alleles for a given gene, it is described as:
+a. Homozygous for that gene.
+b. Heterozygous for that gene.
+c. Hemizygous for that gene.
+d. Polyploid for that gene.
+ANS: a
+
+138. What is the function of primase during DNA replication?
+a. It synthesizes a short RNA primer that provides a 3′-OH start point for DNA polymerase.
+b. It unwinds the DNA double helix.
+c. It proofreads the new DNA strand.
+d. It joins Okazaki fragments.
+ANS: a
+
+139. Which technique would you use to separate DNA fragments by size?
+a. Light microscopy.
+b. Gel electrophoresis.
+c. PCR amplification.
+d. Ultracentrifugation of whole cells.
+ANS: b
+
+140. What is the purpose of the 5′ cap and 3′ poly-A tail on eukaryotic mRNA?
+a. They cause the mRNA to be degraded.
+b. They protect mRNA from degradation and assist in ribosome binding for translation.
+c. They get translated into leader and trailer peptides.
+d. They code for start and stop codons, respectively.
+ANS: b
+
+141. Which step in gene expression is often the most heavily regulated in both prokaryotes and eukaryotes?
+a. Translation elongation speed.
+b. Protein folding.
+c. Initiation of transcription (whether mRNA is made from a gene).
+d. mRNA splicing.
+ANS: c
+
+142. The olfactory receptor gene family in humans (~350 functional genes) arose in part due to:
+a. Point mutations in a single receptor gene.
+b. Exon shuffling between odorant-binding proteins.
+c. Gene duplication events followed by divergence, yielding many receptors recognizing different odors.
+d. Horizontal gene transfer from bacteria in the environment.
+ANS: c
+
+143. In DNA, the two strands are held together by base-pairing: adenine pairs with thymine via 2 H-bonds, and cytosine pairs with guanine via ___ H-bonds.
+a. 1.
+b. 2.
+c. 0 (they do not pair).
+d. 3.
+ANS: d
+
+144. What key advantage does sexual reproduction provide over asexual reproduction?
+a. It requires only one parent.
+b. It generates new genetic combinations, increasing variation in the population, which can improve adaptation and evolutionary potential.
+c. It produces identical offspring, preserving successful genotypes.
+d. It guarantees every offspring will survive.
+ANS: b
+
+145. Which form of DNA repair uses an undamaged complementary strand as a template to accurately repair a broken strand (especially after replication)?
+a. Homologous recombination repair.
+b. Nucleotide excision repair.
+c. Non-homologous end joining.
+d. Mismatch repair.
+ANS: a
+
+146. Which of the following researchers first described the principle of “transformation” in bacteria, suggesting a transferable genetic material?
+a. Frederick Griffith in 1928.
+b. Gregor Mendel in 1865.
+c. Alfred Hershey in 1952.
+d. Oswald Avery in 1944.
+ANS: a
+
+147. What discovery about RNA by Cech and Altman in the 1980s helped resolve the “chicken-and-egg” problem of whether proteins or nucleic acids came first?
+a. Some RNAs can replicate outside of cells today.
+b. RNA is double-stranded in some viruses.
+c. RNA can act as an enzyme (ribozyme), meaning early life could have had an RNA molecule that carried genetic information and catalyzed reactions without proteins.
+d. RNA can form a double helix with DNA.
+ANS: c
+
+148. During DNA replication, the leading strand is synthesized continuously, while the lagging strand is synthesized discontinuously. Why is the lagging strand made in short Okazaki fragments?
+a. The lagging strand template is more prone to damage.
+b. The cell runs out of nucleotides occasionally.
+c. Helicase moves in the opposite direction on that strand.
+d. DNA polymerase can only add nucleotides in the 5′→3′ direction, so the lagging strand template (running 5′→3′ toward the fork) must be copied in segments as more template is exposed.
+ANS: d
+
+149. What role do molecular chaperones play in the cell?
+a. They hold sister chromatids together.
+b. They assist in the proper folding of polypeptides and help refold or degrade misfolded proteins.
+c. They attach motor proteins to microtubules.
+d. They unwind DNA for replication.
+ANS: b
+
+150. Which acronym summarizes the seven characteristics of living organisms (Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition)?
+a. MRS GREN.
+b. DNA-RNA.
+c. ATP-GAS.
+d. CHNOPS.
+ANS: a
+
+151. What evidence from Chargaff’s studies of DNA helped Watson and Crick determine base-pairing?
+a. In any DNA sample, %A = %T and %G = %C, suggesting A pairs with T and G pairs with C.
+b. DNA has uniform diameter along its length.
+c. DNA is acidic due to phosphate groups.
+d. DNA can be crystallized for X-ray studies.
+ANS: a
+
+152. What process best explains how a single gene can give rise to multiple different protein products in eukaryotes?
+a. Gene duplication.
+b. Alternative RNA splicing (different exons are joined to produce different mRNA variants).
+c. Horizontal gene transfer.
+d. Using different DNA polymerases.
+ANS: b
+
+153. In humans, approximately how many protein-coding genes are there in the genome?
+a. ~3 billion genes.
+b. ~20,000–25,000 genes.
+c. ~100,000 genes.
+d. ~1,000 genes.
+ANS: b
+
+154. Which level of protein structure is defined by the sequence of amino acids in the polypeptide chain?
+a. Tertiary structure.
+b. Quaternary structure.
+c. Secondary structure.
+d. Primary structure.
+ANS: d
+
+155. What is the primary role of DNA polymerase III in E. coli?
+a. It joins Okazaki fragments together.
+b. It synthesizes RNA primers.
+c. It relieves supercoils ahead of the replication fork.
+d. It is the main enzyme that synthesizes the new DNA strand by adding nucleotides to the 3′ end during replication.
+ANS: d
+
+156. In *E. coli*, genes involved in metabolizing lactose are expressed only when lactose is present (and glucose is absent). This is an example of:
+a. Translational regulation.
+b. Horizontal gene transfer.
+c. DNA recombination.
+d. Transcriptional regulation (the lac operon is turned on in response to lactose).
+ANS: d
+
+157. During DNA replication, what is the role of DNA helicase?
+a. It ligates nicks in the backbone.
+b. It relieves supercoiling ahead of the fork.
+c. It synthesizes RNA primers.
+d. It unwinds and separates the DNA double helix at the replication fork to allow the polymerase to access the templates.
+ANS: d
+
+158. Why is it advantageous that the genetic code is degenerate (redundant)?
+a. It enables ribosomes to proofread codons.
+b. It means some mutations (especially in the third base of a codon) will not change the amino acid, providing a buffer against harmful mutations.
+c. It allows each codon to code for multiple amino acids if needed.
+d. It permits overlapping genes.
+ANS: b
+
+159. What did the Griffith transformation experiment demonstrate?
+a. That X-rays mutate DNA.
+b. That some "transforming principle" from dead virulent bacteria could be taken up by live non-virulent bacteria and change their phenotype (make them virulent).
+c. That DNA is double-stranded.
+d. That viruses infect bacteria.
+ANS: b
+
+160. Which type of DNA repair uses the undamaged sister chromatid as a template to accurately repair a broken DNA double helix?
+a. Mismatch repair.
+b. Non-homologous end joining.
+c. Homologous recombination repair.
+d. Nucleotide excision repair.
+ANS: c
+
+161. *Saccharomyces cerevisiae* is commonly used in research as a model for eukaryotic cells. What is *S. cerevisiae*?
+a. Baker’s yeast, a single-celled eukaryote (fungus) that is easy to grow and genetically manipulate.
+b. A fruit fly.
+c. A laboratory mouse.
+d. A soil bacterium.
+ANS: a
+
+162. Which molecule carries the anticodon that is complementary to an mRNA codon during protein translation?
+a. rRNA.
+b. miRNA.
+c. DNA.
+d. tRNA.
+ANS: d
+
+163. How do eukaryotic transcription factors influence gene expression?
+a. They bind specific DNA sequences in promoters/enhancers and either help recruit RNA polymerase (activators) or block it (repressors), thereby controlling transcription.
+b. They signal ribosomes to start translation.
+c. They unwind chromosomal DNA for replication.
+d. They chop mRNA into pieces.
+ANS: a
+
+164. Which experiment conclusively showed that DNA replication is semi-conservative, with each daughter DNA having one old strand and one new strand?
+a. Griffith’s transformation experiment.
+b. Hershey and Chase’s blender experiment.
+c. Avery, MacLeod, and McCarty’s experiment.
+d. Meselson and Stahl’s density shift experiment using heavy ¹⁵N and light ¹⁴N isotopes.
+ANS: d
+
+165. Why is DNA ligase needed on the lagging strand during DNA replication?
+a. It attaches DNA to the nuclear membrane.
+b. It unwinds the helix on that strand.
+c. It seals the nicks between Okazaki fragments after the RNA primers are replaced with DNA, joining the fragments into a continuous strand.
+d. It forms the replication fork.
+ANS: c
+
+166. In the lac operon of *E. coli*, the lac repressor binds to the operator in the absence of lactose, preventing transcription. Lactose (actually allolactose) acts as an inducer by:
+a. Blocking the promoter when present.
+b. Binding the repressor and causing it to release from the operator, allowing transcription of the lactose-metabolizing genes.
+c. Binding RNA polymerase to start transcription.
+d. Destroying the repressor protein.
+ANS: b
+
+167. What is the role of the 3′ poly-A tail added to eukaryotic mRNA?
+a. It gets spliced out of the mRNA.
+b. It protects the mRNA from degradation and aids in its export from the nucleus and translation.
+c. It signals the start of translation.
+d. It encodes the stop codon.
+ANS: b
+
+168. Which type of mutation is generally most likely to produce a nonfunctional protein?
+a. A silent mutation in the third base of a codon.
+b. A conservative missense mutation (one amino acid changed to a similar amino acid).
+c. A frameshift mutation (insertion or deletion not in a multiple of 3, altering the reading frame).
+d. A duplication of a codon.
+ANS: c
+
+169. What evidence supports the idea that mitochondria and chloroplasts evolved from bacteria?
+a. They have circular DNA genomes and prokaryote-like ribosomes, and they reproduce by fission inside cells.
+b. They are the only organelles with membranes.
+c. They have introns and exons in their genes.
+d. They can survive outside the cell on their own.
+ANS: a
+
+170. In an aqueous environment, how do phospholipids arrange themselves to form cell membranes?
+a. They form a bilayer with hydrophobic fatty acid tails facing inward and hydrophilic heads facing the water.
+b. They form a single layer with tails in the water and heads out.
+c. They do not self-assemble; proteins force them.
+d. They form micelles with heads inside.
+ANS: a
+
+171. What happens during the process of transcription?
+a. Proteins are synthesized from mRNA.
+b. mRNA is spliced into introns and exons.
+c. RNA is synthesized using DNA as a template.
+d. DNA is copied into DNA.
+ANS: c
+
+172. What is the function of the Golgi apparatus in the cell?
+a. It is the site of ATP production.
+b. It synthesizes proteins for the cytosol.
+c. It modifies, sorts, and packages proteins received from the ER for secretion or delivery to other organelles.
+d. It transcribes mRNA.
+ANS: c
+
+173. Which human chromosome combination is lethal (unable to produce a viable infant)?
+a. XXY (Klinefelter syndrome).
+b. XXX (Triple X in a female).
+c. Having zero X chromosomes (no X present).
+d. X (Turner syndrome).
+ANS: c
+
+174. What experimental evidence showed that RNA can have enzymatic (catalytic) activity?
+a. The high stability of RNA.
+b. Rosalind Franklin’s images of RNA crystals.
+c. The discovery that certain RNAs (like self-splicing introns and RNase P) can catalyze biochemical reactions without protein.
+d. The success of Hershey-Chase labeling RNA.
+ANS: c
+
+175. Which of the following is a feature of eukaryotic genes that facilitates exon shuffling?
+a. Genes arranged in operons.
+b. The lack of any introns in genes.
+c. Polycistronic mRNAs encoding multiple proteins.
+d. The presence of introns, which allow recombination to mix-and-match exons without disrupting coding sequences.
+ANS: d
+
+176. Why can bacteria start translating an mRNA even before transcription of that mRNA is finished?
+a. Because in prokaryotes, transcription and translation both occur in the cytoplasm and are not separated by a nucleus, allowing coupling of the processes.
+b. They actually cannot do this.
+c. Because bacteria have no need for ribosomes.
+d. Because bacterial ribosomes can enter the nucleus.
+ANS: a
+
+177. What role do cyclins and cyclin-dependent kinases (Cdks) play in the cell cycle?
+a. They condense chromatin into chromosomes.
+b. They replicate DNA at origins.
+c. They act as key regulatory proteins that drive the cell through different phases of the cell cycle when activated.
+d. They form the mitotic spindle.
+ANS: c
+
+178. Why is only one strand of DNA copied during transcription rather than both?
+a. Because the other strand is made of RNA.
+b. Because one strand is destroyed.
+c. Because only one strand (the template strand) has the correct orientation and sequence for RNA polymerase to produce a meaningful mRNA (the other strand would give a nonsense or opposite RNA).
+d. Actually, both strands are transcribed simultaneously.
+ANS: c
+
+179. A human cell with 47 chromosomes (such as in Down syndrome) is said to be:
+a. Polyploid.
+b. Diploid.
+c. Haploid.
+d. Aneuploid (specifically trisomic for chromosome 21).
+ANS: d
+
+180. In DNA replication, what is the role of primase on the lagging strand?
+a. It keeps the strands apart (like single-strand binding protein).
+b. It replaces RNA primers with DNA.
+c. It joins Okazaki fragments.
+d. It synthesizes short RNA primers that DNA polymerase can extend, initiating each Okazaki fragment.
+ANS: d
+
+181. What experimental technique did Matthew Meselson and Franklin Stahl use to distinguish “heavy” and “light” DNA?
+a. X-ray crystallography of DNA.
+b. Labeling DNA with radioactive phosphorus (³²P) and sulfur (³⁵S).
+c. Density gradient centrifugation using ^15N-labeled and ^14N-labeled DNA.
+d. Gel electrophoresis of DNA fragments.
+ANS: c
+
+182. In Mendel’s pea plants, the allele for purple flowers (P) is dominant over the allele for white flowers (p). What is the phenotype of a plant with the genotype Pp?
+a. White flowers.
+b. Partially purple, partially white flowers.
+c. Purple flowers.
+d. An intermediate lavender color.
+ANS: c
+
+183. Why are X-linked recessive disorders (like red-green colorblindness) more common in human males?
+a. The Y chromosome causes the mutation in males.
+b. Males inherit two X chromosomes from their mother.
+c. Males have only one X chromosome, so a recessive mutation on that X will be expressed (no second X with a normal allele to mask it).
+d. Females cannot have X-linked mutations.
+ANS: c
+
+184. What is the role of tRNA synthetase enzymes?
+a. They synthesize tRNA from DNA.
+b. They help ribosomes move along mRNA.
+c. They remove introns from tRNA.
+d. They attach the correct amino acid to its corresponding tRNA (charging the tRNA), ensuring that each tRNA carries the amino acid matching its anticodon.
+ANS: d
+
+185. What enzymatic activity in DNA polymerase allows it to correct mistakes during replication?
+a. A 5′→3′ exonuclease activity.
+b. Reverse transcriptase activity.
+c. Ligase activity.
+d. A 3′→5′ exonuclease proofreading activity that removes mispaired nucleotides.
+ANS: d
+
+186. What event marks the end of translation of an mRNA into protein?
+a. The 3′ poly-A tail is reached.
+b. Both stop codon and start codon align in the ribosome at once.
+c. The ribosome runs off the end of the mRNA.
+d. The ribosome reaches a stop codon (UAA, UAG, or UGA), for which there is no tRNA; instead, release factors bind and cause release of the completed polypeptide.
+ANS: d
+
+187. Which molecule serves as the energy “currency” of the cell, driving many biochemical reactions?
+a. cAMP.
+b. Hemoglobin.
+c. ATP (adenosine triphosphate).
+d. DNA.
+ANS: c
+
+188. Which organelle is filled with digestive enzymes and functions as the cell’s recycling center, breaking down macromolecules and worn-out organelles?
+a. Nucleus.
+b. Ribosome.
+c. Lysosome.
+d. Centriole.
+ANS: c
+
+189. What is quorum sensing in bacteria?
+a. The process by which bacteria sense nutrient concentration.
+b. The way bacteria move toward light.
+c. A communication mechanism where bacteria release and detect signaling molecules to gauge their population density and coordinate behavior (such as biofilm formation or virulence).
+d. The method by which bacteria proofread DNA.
+ANS: c
+
+190. Which of the following is a common post-translational modification of proteins?
+a. Polyadenylation of the protein’s C-terminus.
+b. 5′ capping of the protein.
+c. Phosphorylation – the addition of phosphate groups, which can alter enzyme activity or signaling function.
+d. Removal of exons from the protein.
+ANS: c
+
+191. What did Oswald Avery and colleagues demonstrate in 1944 by treating Griffith’s “transforming principle” with DNase, RNase, and protease?
+a. That rough bacteria cannot transform at all.
+b. That proteins are the genetic material.
+c. That transformation only occurs in vitro.
+d. That DNA is the transforming material (DNase destroyed the activity, whereas RNase or protease did not).
+ANS: d
+
+192. In the polymerase chain reaction (PCR), what enzyme is used to synthesize DNA?
+a. DNA ligase under heat.
+b. RNA polymerase at high temperature.
+c. A heat-stable DNA polymerase (such as Taq polymerase) from thermophilic bacteria.
+d. Human DNA polymerase from cells.
+ANS: c
+
+193. What happens to the RNA primers that are laid down on the lagging strand during DNA replication?
+a. They remain in the DNA as short RNA patches.
+b. They are removed by a nuclease (or DNA polymerase’s 5′→3′ exonuclease activity) and replaced with DNA, and the fragments are joined by ligase.
+c. They form the Okazaki fragments.
+d. They are extended continuously by DNA polymerase.
+ANS: b
+
+194. Under optimal conditions, some bacteria can divide roughly every:
+a. 24 hours.
+b. 20 minutes.
+c. 12 hours.
+d. 1 minute.
+ANS: b
+
+195. Which of the following is an advantage that some model organisms (like *C. elegans*, *Drosophila*, or mice) offer to researchers?
+a. They never mutate, simplifying analysis.
+b. They have well-characterized genetics and are easy to breed or maintain, allowing detailed studies of biological processes that are conserved in higher organisms.
+c. They are identical to humans in all aspects.
+d. They have extremely long lifespans for observing aging.
+ANS: b
+
+196. Approximately what percentage of the human genome encodes proteins?
+a. ~50%.
+b. ~10%.
+c. ~100%.
+d. ~1-2%.
+ANS: d
+
+197. What are Okazaki fragments?
+a. Random fragments of DNA in the nucleus.
+b. Pieces of RNA that are removed from mRNA.
+c. Sections of protein that are cleaved after translation.
+d. Short DNA fragments synthesized on the lagging strand during DNA replication.
+ANS: d
+
+198. Which molecule acts as the template for translation?
+a. mRNA (messenger RNA).
+b. DNA.
+c. tRNA.
+d. rRNA.
+ANS: a
+
+199. If a fertilized egg has an abnormal number of chromosomes due to nondisjunction (e.g., trisomy 21), what is the likely outcome?
+a. A genetic disorder or developmental abnormalities can result; for example, trisomy 21 causes Down syndrome.
+b. The individual will have two heads.
+c. The embryo will always fail to develop (lethal).
+d. There is no effect; extra chromosomes are inactivated.
+ANS: a
+
+200. Which of the following occurs in meiosis but not in mitosis?
+a. Separation of sister chromatids.
+b. Chromosome replication.
+c. Alignment of chromosomes at the metaphase plate.
+d. Pairing of homologous chromosomes and crossing-over, resulting in exchange of genetic material.
+ANS: d
